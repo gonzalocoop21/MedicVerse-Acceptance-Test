@@ -2,7 +2,7 @@ Feature: US09: Agendar Cita con Médico General
     Como paciente 
     quiero seleccionar una fecha y hora 
     para agendar una cita con un médico general.
-    alkdfjods
+    
 
 Scenario: Ingreso a Agendado
 Dado que el <paciente> se encuentra en su perfil
@@ -35,4 +35,31 @@ Examples: Datos de entrada
 Examples: Datos de salida
     | mensaje de confirmación | 
     | ¡Cita Registrada!, Que tenga un buen día  |
-
+dakjfhksadfkljsdlfjklsafjlkñasj
+nga un buen día  |
+dakjfhksadfkljsdlfjklsafjlkñasjnga un buen día  |
+dakjfhksadfkljsdlfjklsafjlkñasjnga un buen día  |
+dakjfhksadfkljsdlfjklsafjlkñasjnga un buen día  |
+dakjfhksadfkljsdlfjklsafjlkñasjnga un buen día  |
+dakjfhksadfkljsdlfjklsafjlkñasjnga un buen día  |
+dakjfhksadfkljsdlfjklsafjlkñasjnga un buen día  |
+dakjfhksadfkljsdlfjklsafjlkñasjnga un buen día  |
+dakjfhksadfkljsdlfjklsafjlkñasjnga un buen día  |
+dakjfhksadfkljsdlfjklsafjlkñasjnga un buen día  |
+dakjfhksadfkljsdlfjklsafjlkñasjnga un buen día  |
+dakjfhksadfkljsdlfjklsafjlkñasjnga un buen día  |
+dakjfhksadfkljsdlfjklsafjlkñasjnga un buen día  |
+dakjfhksadfkljsdlfjklsafjlkñasjnga un buen día  |
+dakjfhksadfkljsdlfjklsafjlkñasjnga un buen día  |
+dakjfhksadfkljsdlfjklsafjlkñasjnga un buen día  |
+dakjfhksadfkljsdlfjklsafjlkñasjnga un buen día  |
+dakjfhksadfkljsdlfjklsafjlkñasjnga un buen día  |
+dakjfhksadfkljsdlfjklsafjlkñasjnga un buen día  |
+dakjfhksadfkljsdlfjklsafjlkñasjnga un buen día  |
+dakjfhksadfkljsdlfjklsafjlkñasjnga un buen día  |
+dakjfhksadfkljsdlfjklsafjlkñasjnga un buen día  |
+dakjfhksadfkljsdlfjklsafjlkñasjnga un buen día  |
+dakjfhksadfkljsdlfjklsafjlkñasjnga un buen día  |
+dakjfhksadfkljsdlfjklsafjlkñasjnga un buen día  |
+dakjfhksadfkljsdlfjklsafjlkñasjnga un buen día  |
+dakjfhksadfkljsdlfjklsafjlkñasj
