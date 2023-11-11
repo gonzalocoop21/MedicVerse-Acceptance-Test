@@ -85,19 +85,4 @@ Examples: Datos de salida
     Examples: Datos de salida
     | resumen de la consulta |
     | Infección estomacal, 2 pastillas de paracetamol 500g.....  |v
-    v
 
-    Examples: Datos de salida
-    | resumen de la consulta |
-    | Infección estomacal, 2 pastillas de paracetamol 500g.....  |
-    v
-    Examples: Datos de salida
-    | resumen de la consulta |
-    | Infección estomacal, 2 pastillas de paracetamol 500g.....  |
-    Examples: Datos de salida
-    | resumen de la consulta |
-    | Infección estomacal, 2 pastillas de paracetamol 500g.....  |
-    v
-    v
-
-    
