@@ -90,30 +90,6 @@ Examples: Datos de salida
     | mensaje de confirmación | 
     | ¡Cita Registrada!, Que tenga un buen día  |
 Examples: Datos de entrada
-    | paciente | médico | horario | 
-    | Fernando Quispe  | Franco Matos  | 13:00-15:00 21/10/2024 | 
 
-Examples: Datos de salida
-    | mensaje de confirmación | 
-    | ¡Cita Registrada!, Que tenga un buen día  |
-Examples: Datos de entrada
-    | paciente | médico | horario | 
-    | Fernando Quispe  | Franco Matos  | 13:00-15:00 21/10/2024 | 
-
-Examples: Dato\
-Examples: Datos de entrada
-    | paciente | médico | horario | 
-    | Fernando Quispe  | Franco Matos  | 13:00-15:00 21/10/2024 | 
-
-Examples: Datos de salida
-    | mensaje de confirmación | 
-    | ¡Cita Registrada!, Que tenga un buen día  |
-Examples: Datos de entrada
-    | paciente | médico | horario | 
-    | Fernando Quispe  | Franco Matos  | 13:00-15:00 21/10/2024 | 
-
-Examples: Datos de salida
-    | mensaje de confirmación | 
-    | ¡Cita Registrada!, Que tenga un buen día  |
 
 
