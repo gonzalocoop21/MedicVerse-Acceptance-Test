@@ -99,14 +99,7 @@ Examples: Datos de salida
     | ¡Cita Registrada!, Que tenga un buen día  |
     
 Examples: Datos de salida
-    | mensaje de confirmación | 
-    | ¡Cita Registrada!, Que tenga un buen día  |
 
-    
-Examples: Datos de salida
-    | mensaje de confirmación | 
-    | ¡Cita Registrada!, Que tenga un buen día  |
-    
 Examples: Datos de salida
     | mensaje de confirmación | 
     | ¡Cita Registrada!, Que tenga un buen día  |
