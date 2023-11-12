@@ -123,30 +123,7 @@ Examples: Datos de salida
     | mensaje de confirmación | 
     | ¡Cita Registrada!, Que tenga un buen día  |
 Examples: Datos de salida
-    | mensaje de confirmación | 
-    | ¡Cita Registrada!, Que tenga un buen día  |
-Examples: Datos de salida
-    | mensaje de confirmación | 
-    | ¡Cita Registrada!, Que tenga un buen día  |
-Examples: Datos de salida
-    | mensaje de confirmación | 
-    | ¡Cita Registrada!, Que tenga un buen día  |
-Examples: Datos de salida
-    | mensaje de confirmación | 
 
-    | mensaje de confirmación | 
-    | ¡Cita Registrada!, Que tenga un buen día  |
-Examples: Datos de salida
-    | mensaje de confirmación | 
-    | ¡Cita Registrada!, Que tenga un buen día  |
-Examples: Datos de salida
-    | mensaje de confirmación | 
-    | ¡Cita Registrada!, Que tenga un buen día  |
-Examples: Datos de salida
-    | mensaje de confirmación | 
-    | ¡Cita Registrada!, Que tenga un buen día  |
-Examples: Datos de salida
-    | mensaje de confirmación | 
     | ¡Cita Registrada!, Que tenga un buen día  |
 Examples: Datos de salida
 
