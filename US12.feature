@@ -1,7 +1,7 @@
 Feature: US12: Realizar Videonconsulta
     Como paciente
     quiero poder iniciar y llevar a cabo una videollamada con mi médico en el momento programado 
-    para que la consulta médica se realicé de manera apropiada
+    para que la consulta médica se realicé de manera apropiadas
 
 Scenario: Inicio de la Videoconsulta
 Dado que el <paciente> está registrado en la plataforma 
